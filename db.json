@@ -83,6 +83,30 @@
             "claimNbr": "WOW435",
             "technicianEmail": "Brandon.frey7@yahoo.com",
             "status": "Pending"
+        },
+        {
+            "id": "84638",
+            "insured": "Dasani",
+            "address": "435 Water St, Ocean Side CA 37017",
+            "date": "11/29/2024",
+            "time": "2:00:00 PM",
+            "carrier": "Travelers",
+            "adjuster": "Mila",
+            "claimNbr": "H20",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        },
+        {
+            "id": "37389",
+            "insured": "Testing",
+            "address": "435 Test Ave, Test Town TN 37017",
+            "date": "11/28/2024",
+            "time": "9:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Mila",
+            "claimNbr": "TEST123",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Complete"
         }
     ]
 }
