@@ -1,0 +1,88 @@
+{
+    "inspections": [
+        {
+            "id": "3099",
+            "insured": "Brandon Frey",
+            "address": "123 Test Ave, New York NY 76545",
+            "date": "12/01/2024",
+            "time": "1:00:00 PM",
+            "carrier": "Travelers",
+            "adjuster": "Travelers Adjuster",
+            "claimNbr": "G53324",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        },
+        {
+            "id": "22222",
+            "insured": "Lebron James",
+            "address": "777 Basketball Rd, Los Angeles CA 92010",
+            "date": "12/03/2024",
+            "time": "12:00:00 PM",
+            "carrier": "AAA",
+            "adjuster": "Dwayne Wade",
+            "claimNbr": "LA23",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        },
+        {
+            "id": "33333",
+            "insured": "Tom Brady",
+            "address": "16 Football Rd, Tampa FL 32403",
+            "date": "12/02/2024",
+            "time": "10:00:00 AM",
+            "carrier": "Allstate",
+            "adjuster": "Antonio Brown",
+            "claimNbr": "TBB16",
+            "technicianEmail": "brandon.frey@knightsclaims.com",
+            "status": "Pending"
+        },
+        {
+            "id": "99999",
+            "insured": "Timmy",
+            "address": "615 Nashville Dr, Nashville TN 37017",
+            "date": "12/03/2024",
+            "time": "11:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Tiger Woods",
+            "claimNbr": "GOLF911",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Complete"
+        },
+        {
+            "id": "12345",
+            "insured": "Mila Bila",
+            "address": "214 Nashville Dr, Nashville TN 37017",
+            "date": "11/28/2024",
+            "time": "10:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Me",
+            "claimNbr": "GIRL123",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        },
+        {
+            "id": "23456",
+            "insured": "Beans",
+            "address": "132 Nashville Dr, Nashville TN 37017",
+            "date": "11/28/2024",
+            "time": "9:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Mila",
+            "claimNbr": "DUMB111",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        },
+        {
+            "id": "56765",
+            "insured": "Logan",
+            "address": "435 Dummy Ave, Stupid Town TN 37017",
+            "date": "11/28/2024",
+            "time": "9:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Mila",
+            "claimNbr": "WOW435",
+            "technicianEmail": "Brandon.frey7@yahoo.com",
+            "status": "Pending"
+        }
+    ]
+}
