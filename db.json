@@ -203,6 +203,42 @@
             "claimNbr": "TEST006",
             "technicianEmail": "Cortfowler@icloud.com",
             "status": "Pending"
+        },
+        {
+            "id": "00007",
+            "insured": "Integration Test7",
+            "address": "0067 Integrate Ave, Portal KY 45023",
+            "date": "12/05/2024",
+            "time": "10:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Knights",
+            "claimNbr": "TEST006",
+            "technicianEmail": "Cortfowler@icloud.com",
+            "status": "Pending"
+        },
+        {
+            "id": "0008",
+            "insured": "Integration Test8",
+            "address": "008 Integrate Ave, Portal KY 45023",
+            "date": "12/06/2024",
+            "time": "10:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Knights",
+            "claimNbr": "TEST006",
+            "technicianEmail": "Cortfowler@icloud.com",
+            "status": "Pending"
+        },
+        {
+            "id": "00009",
+            "insured": "Ryan Knight",
+            "address": "001 Integrate Ave, Portal KY 45023",
+            "date": "12/04/2024",
+            "time": "10:00:00 AM",
+            "carrier": "Travelers",
+            "adjuster": "Knights",
+            "claimNbr": "TEST001",
+            "technicianEmail": "Ryan.knight@knightsclaims.com",
+            "status": "Pending"
         }
     ]
 }
